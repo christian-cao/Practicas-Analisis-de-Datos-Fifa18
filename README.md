@@ -1,0 +1,1 @@
+Este Dataset fue descargado desde la plataforma www.kaggle.com , donde tiene el nombre de “Fifa 18 More Complete Player Dataset” y sus datos fueron obtenidos mediante la técnica de web scraping en el portal https://sofifa.com . En su contenido se encuentran 185 características que describen los 17795 registros de jugadores en el videojuego actualizado a septiembre de 2017.
